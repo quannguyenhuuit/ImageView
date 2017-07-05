@@ -13,6 +13,7 @@
 		365F7F5B1F0CB24200FE7DB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 365F7F591F0CB24200FE7DB3 /* LaunchScreen.storyboard */; };
 		365F7F661F0CB24300FE7DB3 /* imageViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365F7F651F0CB24300FE7DB3 /* imageViewTests.swift */; };
 		365F7F711F0CB24300FE7DB3 /* imageViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365F7F701F0CB24300FE7DB3 /* imageViewUITests.swift */; };
+		365F7F7F1F0CB26000FE7DB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 365F7F7E1F0CB26000FE7DB3 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		365F7F6C1F0CB24300FE7DB3 /* imageViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = imageViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		365F7F701F0CB24300FE7DB3 /* imageViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewUITests.swift; sourceTree = "<group>"; };
 		365F7F721F0CB24300FE7DB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		365F7F7E1F0CB26000FE7DB3 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				365F7F501F0CB24200FE7DB3 /* AppDelegate.swift */,
 				365F7F521F0CB24200FE7DB3 /* ViewController.swift */,
+				365F7F7E1F0CB26000FE7DB3 /* Main.storyboard */,
 				365F7F571F0CB24200FE7DB3 /* Assets.xcassets */,
 				365F7F591F0CB24200FE7DB3 /* LaunchScreen.storyboard */,
 				365F7F5C1F0CB24300FE7DB3 /* Info.plist */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				365F7F7F1F0CB26000FE7DB3 /* Main.storyboard in Resources */,
 				365F7F5B1F0CB24200FE7DB3 /* LaunchScreen.storyboard in Resources */,
 				365F7F581F0CB24200FE7DB3 /* Assets.xcassets in Resources */,
 			);
